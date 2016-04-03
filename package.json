@@ -1,0 +1,35 @@
+{
+  "name": "sequence-pattern",
+  "version": "0.0.1",
+  "description": "Find and generate new numbers based on sequence patterns like Excel does.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiatjaf/sequential-pattern.git"
+  },
+  "keywords": [
+    "pattern",
+    "excel",
+    "sequence",
+    "numeric",
+    "number",
+    "delta",
+    "spreadsheet",
+    "handle"
+  ],
+  "author": "fiatjaf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fiatjaf/sequential-pattern/issues"
+  },
+  "homepage": "https://github.com/fiatjaf/sequential-pattern#readme",
+  "devDependencies": {
+    "tap": "^5.7.0"
+  },
+  "dependencies": {
+    "almost-equal": "^1.1.0"
+  }
+}
